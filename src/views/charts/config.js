@@ -5,6 +5,6 @@ export const axisTick = { show: false }
 export const axisLine = {
   show: false,
   lineStyle: {
-    color: '#f5f5f5', //坐标轴线颜色
+    color: '#999', //坐标轴线颜色
   }
 }
